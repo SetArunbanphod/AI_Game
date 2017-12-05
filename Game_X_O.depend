@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479756207 source:c:\users\a_setthawut\desktop\code program\c++\game_x_o\main.cpp
+	<iostream>
+	<cstdlib>
+
